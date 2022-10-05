@@ -1,6 +1,7 @@
 # 💫 About Me:
+💻 Developer based in Italy<br/>
 🔭 Passionate about new technologies<br/>
-💻 Clean code addicted
+🧹 Clean code addicted
 
 
 ## 🌐 Socials:
