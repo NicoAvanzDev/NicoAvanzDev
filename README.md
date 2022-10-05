@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Passionate about new technologies
+🔭 Passionate about new technologies<br/>
 💻 Clean code addicted
 
 
