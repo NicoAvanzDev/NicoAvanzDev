@@ -1,5 +1,6 @@
 # 💫 About Me:
-My brain eats everything related to IT
+🔭 Passionate about new technologies
+💻 Clean code addicted
 
 
 ## 🌐 Socials:
